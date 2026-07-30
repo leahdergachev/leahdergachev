@@ -1,8 +1,10 @@
 # Hi, I'm Leah.
 
-I help marketing and communications teams put AI to work. Founder of [Austley](https://www.austley.com) — we sell capacity, not AI.
+I've spent my career in marketing and communications. Now I help teams figure out where AI actually fits in the work. Founder of [Austley](https://www.austley.com) where we help marketing and comms teams put AI to work.
 
-Everything here is free and built for MarComm folks. You don't need to know code to use any of it.
+I'm also the founder of [The Marcomm Grind](https://www.themarcommgrind.com), a global community of marketing and comms pros figuring out this AI shift together. We swap transformation stories, what's actually working, and skills we need to learn to make sure our field stays relevant. Here I host masterclasses and webinars with special guests so members can learn straight from the people doing the work.
+
+Everything here is free and built for marketing and communications folks. You don't need to know code to use any of it.
 
 ## What I've built
 
