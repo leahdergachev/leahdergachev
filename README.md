@@ -8,6 +8,12 @@ Everything here is free and built for MarComm folks. You don't need to know code
 
 **[The Release Notes List](https://leahdergachev.github.io/ai-release-notes/)** — one page collecting the official "what's new" pages for 43 marketing and comms tools, so you can see what changed in the tools you already pay for. Your team isn't behind on tools that don't exist yet. The gap is in the ones already on your laptop. ([repo](https://github.com/leahdergachev/ai-release-notes))
 
+**Claude Code agent templates** — ready-to-use setups for real MarComm work. Copy one, add your own context, and go:
+
+- [Content Supply Chain Copilot](https://github.com/leahdergachev/content-supply-chain-copilot) — a 7-stage content workflow run by an AI agent
+- [Product Launch Command Center](https://github.com/leahdergachev/product-launch-command-center) — connects product, marketing, sales, enablement, and comms around one launch
+- [Executive Update Generator](https://github.com/leahdergachev/executive-update-generator) — messy notes in, four stakeholder-ready updates out
+
 More on the way.
 
 ## Where to find me
