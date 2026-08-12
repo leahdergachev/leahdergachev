@@ -8,13 +8,20 @@ Everything here is free and built for marketing and communications folks. You do
 
 ## What I've built
 
-**[The Release Notes List](https://leahdergachev.github.io/ai-release-notes/)** — one page collecting the official "what's new" pages for 43 marketing and comms tools, so you can see what changed in the tools you already pay for. Your team isn't behind on tools that don't exist yet. The gap is in the ones already on your laptop. ([repo](https://github.com/leahdergachev/ai-release-notes))
+A few free tools and templates for marketing and communications teams. Tool names link to the repos, and live sites are linked where there is a public version to use.
 
-**Claude Code agent templates** — ready-to-use setups for real MarComm work. Copy one, add your own context, and go:
+**Personal projects**
 
-- [Content Supply Chain Copilot](https://github.com/leahdergachev/content-supply-chain-copilot) — a 7-stage content workflow run by an AI agent
-- [Product Launch Command Center](https://github.com/leahdergachev/product-launch-command-center) — connects product, marketing, sales, enablement, and comms around one launch
-- [Executive Update Generator](https://github.com/leahdergachev/executive-update-generator) — messy notes in, four stakeholder-ready updates out
+- **[The Release Notes List](https://github.com/leahdergachev/ai-release-notes)** — a shortcut to the official "what's new" pages for major MarComm tools, so teams can spot useful updates in tools they already pay for. [Live site](https://leahdergachev.github.io/ai-release-notes/)
+- **[Technical Narrative Translator](https://github.com/leahdergachev/technical-narrative-translator)** — helps translate complex product and research inputs into credible audience-specific messaging, claims review, and launch assets. [Live site](https://leahdergachev.github.io/technical-narrative-translator/)
+- **[Content Supply Chain Copilot](https://github.com/leahdergachev/content-supply-chain-copilot)** — a Claude Code agent template for running a seven-stage content workflow from brief to performance learning.
+- **[Product Launch Command Center](https://github.com/leahdergachev/product-launch-command-center)** — a launch coordination template that connects product, marketing, sales, enablement, and comms around one shared plan.
+- **[Executive Update Generator](https://github.com/leahdergachev/executive-update-generator)** — turns messy notes into stakeholder-ready updates at different altitudes.
+
+**Austley projects I built**
+
+- **[Crisis Comms War Room](https://github.com/Austley/crisis-comms-war-room)** — a free crisis communications tool that turns an incident description into an executive-ready advisory. [Live site](https://austley.github.io/crisis-comms-war-room/)
+- **[AI Role Mapper](https://github.com/Austley/ai-role-mapper)** — paste a marketing or comms job description and see what AI can handle, where it assists, and where human judgment still matters. [Live site](https://austley.github.io/ai-role-mapper/)
 
 More on the way.
 
