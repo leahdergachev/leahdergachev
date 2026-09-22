@@ -30,5 +30,5 @@ More on the way.
 - [LinkedIn](https://www.linkedin.com/in/leahdergachev) — where I post most
 - [Austley](https://www.austley.com) — my consultancy: AI for marketing and communications teams
 - [The Marcomm Grind](https://www.themarcommgrind.com) — a free community for marketers and communicators who are staying ahead in the field
-- [The AI Practice](https://www.aipractice.themarcommgrind.com) — A private practice space for marketers and communicators who want to learn AI with their peers
+- [The AI Practice](https://aipractice.themarcommgrind.com) — A private practice space for marketers and communicators who want to learn AI with their peers
 - [Instagram @tryAIwithLeah](https://www.instagram.com/tryaiwithleah) — quick AI tips and how-tos for anyone
